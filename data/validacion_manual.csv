@@ -1,0 +1,54 @@
+texto,tema,sentimiento
+"Desde las 6 estoy en el portal y los buses llegan cada 20 minutos, increíble la demora",tiempos_espera,negativo
+"La Américas a las 7 de la mañana es una lata, uno entra apretado y sale arrugado",hacinamiento,negativo
+"Me robaron el bolso saliendo de la estación de Suba, ya van tres veces este mes",inseguridad,negativo
+"Hoy se dañó el articulado en la Caracas y dejaron a todo el mundo botado en plena troncal",fallas_operativas,negativo
+"No me deja recargar la Tu Llave en el punto de la estación, ¿hasta cuándo?",tarifa_pago,negativo
+"La estación está sucia y las pantallas no muestran cuánto falta para el siguiente bus",estaciones_servicio,negativo
+"Hoy el bus de la Calle 80 pasó puntual y casi sin gente, así sí da gusto",otros,positivo
+"Excelente la nueva frecuencia en la Autonorte esta semana, ya no espero tanto",tiempos_espera,positivo
+"No es tan malo el servicio por Usme en la mañana, mejoró bastante",otros,positivo
+"Los buses eléctricos son silenciosos y cómodos, buen cambio",otros,positivo
+"¿Alguien sabe a qué hora cierra el servicio del Tunal los domingos?",otros,neutro
+"Mañana hay desvío por la Calle 26 por obras, revisen la aplicación",fallas_operativas,neutro
+"Pasé por el Portal Norte a las ocho y estaba normal",otros,neutro
+"Cuánto tarda el recorrido desde el Portal Sur hasta el centro",otros,neutro
+"Esperé 45 minutos en el Portal Usme y al final llegó lleno, un desastre",tiempos_espera,negativo
+"Imposible entrar al articulado en la NQS, la gente empuja y nadie respeta la fila",hacinamiento,negativo
+"En la Autosur hay acoso todos los días y no se ve ni un policía",inseguridad,negativo
+"Cerraron la estación sin avisar y tocó caminar quince cuadras",fallas_operativas,negativo
+"Subieron el pasaje y el servicio sigue igual, es un abuso",tarifa_pago,negativo
+"Los colados en la estación de la Caracas cada vez son más, uno paga y ellos entran gratis",tarifa_pago,negativo
+"El conductor fue grosero con una señora mayor en Suba",estaciones_servicio,negativo
+"No hay rampas funcionando en la estación y mi mamá va en silla de ruedas",estaciones_servicio,negativo
+"Muy buena la atención del personal en la estación, gracias por la ayuda",estaciones_servicio,positivo
+"Hoy sí llegó rápido el bus, todo fluido por la Américas",tiempos_espera,positivo
+"Qué buen servicio el de hoy en la Calle 80, bus limpio y puntual",otros,positivo
+"Por la noche el Portal 80 da miedo, está muy solo y mal iluminado",inseguridad,negativo
+"No pasa ningún bus por Suba desde hace una hora, qué vergüenza",tiempos_espera,negativo
+"Con tanta gente apretada casi me desmayo en la Autonorte",hacinamiento,negativo
+"Me atracaron en el bus de la Calle 26 y el conductor no hizo nada",inseguridad,negativo
+"Falla eléctrica en la estación, todo apagado y sin servicio",fallas_operativas,negativo
+"El pasaje en TransMilenio está caro para lo que ofrecen",tarifa_pago,negativo
+"La aplicación nunca muestra la información correcta de las rutas",estaciones_servicio,negativo
+"Otra vez bloqueo en la Autosur, manifestantes y cero información",fallas_operativas,negativo
+"Normal el servicio hoy, ni bien ni mal",otros,neutro
+"Alguien me confirma si el transbordo sigue siendo gratis por dos horas",tarifa_pago,neutro
+"Informan que habrá cambio de ruta en la Américas desde el lunes",otros,neutro
+"Hoy tardé una hora y media en llegar al trabajo por la espera en el Portal Suba",tiempos_espera,negativo
+"Este bus va tan lleno que no cabe una persona más, ni respirar se puede",hacinamiento,negativo
+"Se robaron el celular de un muchacho en la puerta del bus, nadie ayudó",inseguridad,negativo
+"El ascensor de la estación lleva un mes dañado, qué abandono",fallas_operativas,negativo
+"Me cobraron doble en la Tu Llave y nadie me responde",tarifa_pago,negativo
+"Las estaciones están muy limpias y ordenadas ahora, felicitaciones",estaciones_servicio,positivo
+"Todo perfecto hoy, llegué temprano gracias al bus expreso",otros,positivo
+"Ya no es tan terrible viajar en la Caracas en hora pico",hacinamiento,positivo
+"Qué rico el viaje de hoy, cero afán",otros,positivo
+"Me tocó esperar media hora en Usme con la lluvia, harto de esto",tiempos_espera,negativo
+"La frecuencia es pésima los fines de semana",tiempos_espera,negativo
+"Vean la nueva ruta que anunció el distrito para Soacha",otros,neutro
+"Buscando recomendaciones de restaurantes por el centro",otros,neutro
+"Los articulados van llenos y encima los conductores frenan brusco, vergüenza",hacinamiento,negativo
+"Ojalá pusieran más vigilancia en el Tunal, da miedo",inseguridad,negativo
+"El transporte en esta ciudad es una maravilla, claro, solo hay que esperar una hora",tiempos_espera,negativo
+"Genial, otro bus varado justo cuando llegaba tarde",fallas_operativas,negativo
